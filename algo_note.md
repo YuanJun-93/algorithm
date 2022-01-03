@@ -321,5 +321,3 @@ func detectCycle(head *ListNode) *ListNode {
 }
 ```
 
-### 哈希表
-
